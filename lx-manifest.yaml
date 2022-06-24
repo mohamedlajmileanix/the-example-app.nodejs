@@ -1,7 +1,7 @@
-id: myfirstapp
-name: myfirstapp
+id: node-app
+name: node-app-tekton
+description: Node app to test Tekton CICD integration
 self: https://github.com/mohamedlajmileanix/the-example-app.nodejs/lx-manifest.yaml
-description: First app to showcase CICD integration.
 owner: mohamed.lajmi@leanix.net
 links:
   - name: Github
