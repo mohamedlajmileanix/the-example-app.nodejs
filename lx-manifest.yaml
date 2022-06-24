@@ -1,0 +1,8 @@
+id: myfirstapp
+name: myfirstapp
+self: https://github.com/mohamedlajmileanix/the-example-app.nodejs/lx-manifest.yaml
+description: First app to showcase CICD integration.
+owner: mohamed.lajmi@leanix.net
+links:
+  - name: Github
+    url: https://github.com/mohamedlajmileanix/the-example-app.nodejs
